@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 
 kokweoqrewoqrw
+=======
+test
+>>>>>>> 3a596169c9beabbdf112d68f21d7835ac8e9a84d
